@@ -1,9 +1,3 @@
-
-Nos permite hacer un replace rápido, sin tener que hacer delete y apply
-```
-kubectl replace -f webapp.yaml --force
-```
-
 # Comandos útiles para Kubernetes (kubectl)
 
 Este documento contiene una recopilación de comandos interesantes y útiles para trabajar con Kubernetes, organizados por categorías.
